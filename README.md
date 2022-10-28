@@ -1,5 +1,5 @@
 <div>
-   <p align="center">
+   <p align="right">
      <h3> Olá , Eu sou João Luís Cardoso 😃, </h3>
      <h4> Atualmente cursando Sistemas de Informação-IFMG 📚 </h4>
    
